@@ -1,4 +1,4 @@
-# StudyVault
+# Offline Document Management System
 
 A high-performance PyQt6 desktop library management application for organizing student study materials with intelligent in-memory search, file import, and task management. Port from JavaFX with enhanced architecture and professional optimization.
 
